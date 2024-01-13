@@ -3,3 +3,7 @@ Name: mlprojects
 Version: 0.0.1
 Author: tariq
 Author-email: tariqueisrar7834@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
