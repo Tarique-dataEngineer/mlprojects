@@ -1,4 +1,3 @@
-Pickle
 Flask
 pandas
 numpy
